@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+/* navbar-started  */
+#navbar{
+    padding: 10px 15px;
+  }
+.nav-links{
+    text-decoration: none;
+}
+#navbar-items{
+    gap: 30px;
+    font-size: larger;
+}
+#Franchies{
+    padding: 15px 20px;
+    background-color: transparent;
+    border: 1px solid white;
+}
+#Order{
+    padding:15px 20px;
+    border: 1px solid red;
+    background-color: red;
+    font-size: 15px;
+}
+#red{
+    font-size: 20px;
+    background-color: #FFFFFF;
+    color: red;
+    border-radius: 30px;
+    padding: 5px 5px;
+}
+/* navbar ended  */
+#main-branch{
+    display: flex;
+    justify-content: space-around;
+}
+#taha{
+    display: flex;
+    justify-content: space-around;
+}

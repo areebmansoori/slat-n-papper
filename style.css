@@ -1,0 +1,243 @@
+/* color variable */
+
+:root{
+    --red:#f73b3b;
+    --white:#ffffff;
+    --black:#000000;
+}
+
+/* navbar styling */
+#navbar-items{
+    gap: 30px;
+}
+#navbar{
+    padding: 0px 10px;
+}
+
+#main-logo{
+    width: 165px;
+}
+.nav-link{
+    text-decoration: none;
+}
+#franchise{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#order-online{
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#red{
+    color: var(--red);
+}
+#btn-icon{
+    padding: 5px 7px; 
+}
+
+#children-images{
+    gap: 30px;
+}
+#order-now{
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    margin-left: 90px;
+
+}
+.paddin{
+    padding: 70px;
+    display: block;
+}
+.pd{
+    padding-top: 70px;
+}
+.head{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+#order{
+    margin-left: 50px;
+    margin-left: 60px
+}
+#cool{
+    margin-left: 50px;
+}
+.text{
+    /* border: 1px solid red; */
+    padding: 40px;
+}
+
+.logo1{
+    /* border: 1px solid red; */
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+#main2{
+    display: flex;
+    justify-content: space-around;
+}
+.text2{
+    /* border: 1px solid red; */
+    padding: 40px;
+}
+#btnn{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#red{
+    color: red;
+}
+#main3{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    
+}
+#main4{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#logo3{
+    padding: 40px;
+    margin-right: 100%;
+    
+}
+#text4{
+    margin-left: auto;
+}
+heh{
+    nt-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 12px;
+}
+#Direction-btn{
+    padding: 15px 15px;
+    background-color: transparent;
+    border: 1px solid;
+    width: 174px;
+    /* height: 50px; */
+    /* align-items: center; */
+    /* margin-top: 24px; */
+    margin-left: 90px;
+}
+heh{
+    nt-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom:12px;
+}
+#Direction-btn{
+    padding: 15px 15px;
+    background-color: transparent;
+    border: 1px solid;
+    width: 174px;
+    /* height: 50px; */
+    /* align-items: center; */
+    /* margin-top: 24px; */
+    margin-left:20px;
+}
+#main-text2{
+    margin-left: 30px;
+}
+heh{
+    nt-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom:12px;
+}
+#Direction-btn{
+    padding: 15px 15px;
+    background-color: transparent;
+    border: 1px solid;
+    width: 174px;
+    /* height: 50px; */
+    /* align-items: center; */
+    /* margin-top: 24px; */
+    margin-left:20px;
+}
+#main-text3{
+    margin-left: 40px;
+}
+.new{
+    width: 300px;
+    height: 300px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px 30px;
+    border-radius:5px;
+}
+
+.new1{
+    width: 300px;
+    height: 300px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px 30px;
+    border-radius:5px;
+}
+.new2{
+    width: 300px;
+    height: 300px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px 30px;
+    border-radius:5px;
+}
+#old-branch{
+display: flex;
+justify-content: space-around; 
+
+}
+#btnn{
+    background-color: #43b643;
+    border: 1px solid #43b643;
+}
+#papa{
+    display: flex;
+    justify-content: space-around;
+}
+#mama-new{
+    display: flex;
+    justify-content: space-around;
+}
+#mama{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#mama1{
+    font-family: 'Times New Roman', Times, serif;
+}
